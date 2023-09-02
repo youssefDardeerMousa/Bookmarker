@@ -1,0 +1,103 @@
+
+
+
+.Bookmarker h1{
+    Font-family: arial;
+
+Font-size: 29.25px;
+
+Font-weight: 700;
+
+Line-height: normal;
+
+ color: rgb(170, 170, 170);
+
+}
+
+.Bookmarker p{
+    
+    width: 100%;
+    height:1px;
+    background: rgb(170, 170, 170);
+    Font-family: arial;
+
+    Font-size: 16px;
+    
+    Font-weight: 400;
+    
+    Line-height: normal;
+    
+  
+}
+
+.Bookmarkerform{
+    background-color: #EEEEEE;
+
+}
+
+.Bookmarkerform h3 {
+        letter-spacing: 1px;
+    }
+    .label p{
+        Font-family: arial;
+
+        Font-size: 16px;
+        
+        Font-weight: 700;
+        
+        Line-height: normal;
+        
+         color: rgb(51, 51, 51);
+    }
+  .Bookmarker span{
+    Font-family: arial;
+
+    Font-size: 14px;
+    
+    Font-weight: 700;
+    
+    Line-height: normal;
+    
+     color: rgb(170, 170, 170);
+  }
+
+ 
+.NameP,.UrlP{
+    background-color: #FFB2B2;
+    
+    color: rgb(109, 0, 0);
+    Font-family: arial;
+
+    Font-size: 18px;
+    
+    Font-weight: 700;
+    
+    Line-height: normal;
+  padding : 5px 0;
+  border: 1px solid #000;
+  border-radius: 5px;
+  width:75%;
+  margin: auto;
+}
+
+a{
+  color:#fff;
+  text-decoration: none;
+}
+p{
+  Font-family: arial;
+
+  Font-size: 16px;
+  
+  Font-weight: 700;
+  
+  Line-height: normal;
+  
+   color: rgb(51, 51, 51);
+}
+
+img{
+  /* height:npx; */
+  object-fit: cover;
+  /* بتحسن جوده الصورة */
+}
